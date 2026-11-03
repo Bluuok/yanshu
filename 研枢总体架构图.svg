@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#f5f8fc"/><g font-family="Microsoft YaHei, PingFang SC, sans-serif" fill="#173454">
+<text x="65" y="70" font-size="36" font-weight="bold">研枢科研智能体平台｜总体技术架构</text><text x="66" y="108" font-size="19" fill="#5b7189">第一阶段两条重点路线并列 · 按任务动态选择步骤 · 研究人员确认关键决策</text>
+<g fill="#fff" stroke="#d5e0ec" stroke-width="2"><rect x="60" y="140" width="1480" height="90" rx="12"/><rect x="60" y="255" width="1480" height="115" rx="12"/><rect x="60" y="395" width="1480" height="245" rx="12"/><rect x="60" y="665" width="1480" height="95" rx="12"/><rect x="60" y="785" width="1480" height="85" rx="12"/></g>
+<text x="90" y="175" font-size="20" fill="#5c7290">科研入口与工作台</text><text x="90" y="210" font-size="24">研究目标与材料</text><text x="475" y="210" font-size="24">项目空间与任务进度</text><text x="925" y="210" font-size="24">成果、待办与确认</text>
+<text x="90" y="293" font-size="20" fill="#5c7290">动态协调与执行</text><rect x="90" y="310" width="1420" height="43" rx="8" fill="#1d466f"/><text x="116" y="340" font-size="23" fill="white">任务拆解与路由　｜　状态与检查点　｜　动态选择能力　｜　失败恢复与预算控制</text>
+<text x="90" y="433" font-size="20" fill="#5c7290">科研能力与质量复核</text>
+<g fill="#eaf2fb" stroke="#ccdaea"><rect x="90" y="455" width="315" height="70" rx="8"/><rect x="430" y="455" width="315" height="70" rx="8"/><rect x="770" y="455" width="315" height="70" rx="8"/><rect x="1110" y="455" width="400" height="70" rx="8"/></g>
+<text x="122" y="499" font-size="24">文献与研究构思</text><text x="463" y="499" font-size="24">实验设计与排程</text><text x="803" y="499" font-size="24">数据分析与写作</text><text x="1142" y="499" font-size="24">证据核查与质量复核</text>
+<g fill="#fff4e9" stroke="#f1d8bc"><rect x="90" y="555" width="690" height="60" rx="8"/><rect x="820" y="555" width="690" height="60" rx="8"/></g><text x="120" y="594" font-size="25">论文初稿、证据清单与可编辑导出</text><text x="850" y="594" font-size="25">实验计划、进度更新与下一步提醒</text>
+<text x="90" y="704" font-size="20" fill="#5c7290">共享底座</text><text x="90" y="739" font-size="23">文献与实验数据　｜　模型和工具接口　｜　权限及项目记忆　｜　日志与独立评测</text>
+<text x="90" y="819" font-size="20" fill="#5c7290">后续阶段逐步扩展</text><text x="90" y="850" font-size="23">长程科研任务　｜　科研软件与仿真　｜　设备联动　｜　受控技能改进　｜　团队协作</text>
+</g></svg>
