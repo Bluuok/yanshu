@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "rule_id": "lab-cfrp-tensile-draft",
+  "rule_version": "0.1",
+  "material_class": "CFRP",
+  "test_method": "TENSILE",
+  "standard_id": null,
+  "standard_version": null,
+  "approval_status": "DRAFT",
+  "scope": {
+    "instrument": null,
+    "sample_geometry": null,
+    "environment": null
+  },
+  "constraints": [
+    {
+      "parameter": "modulus_strain_range",
+      "value": null,
+      "unit": "strain_ratio",
+      "enforcement_level": "REQUIRES_CONFIRM",
+      "on_fail": "WAITING_FOR_CONFIRM",
+      "source_reference": null
+    },
+    {
+      "parameter": "spare_specimen_ratio",
+      "value": null,
+      "unit": "ratio",
+      "enforcement_level": "WARNING",
+      "on_fail": "LOG_WARNING",
+      "source_reference": null
+    }
+  ],
+  "note": "仅供接口开发演示。未获专家批准，不得把此文件当作测试标准或生产规则。"
+}
